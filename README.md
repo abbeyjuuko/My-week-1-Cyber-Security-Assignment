@@ -175,6 +175,10 @@ DNS: 8.8.8.8
 
 A consistent IP address makes it easier to document the lab and reference the Kali machine in future exercises.
 
+## Screenshot of Successful Network setup in Kali
+
+
+
 
 
 ---
@@ -182,6 +186,12 @@ A consistent IP address makes it easier to document the lab and reference the Ka
 ## Step 6. Clean VM Snapshot
 
 After completing the initial configuration, MY KALI snapshot was taken
+
+![](MY%20KALI%20SCREEN.png)
+
+## Step 7 MY Windows 11 Setup
+
+I downloaded my win 11 and configured it into the virtual box.
 
 
 
@@ -198,9 +208,9 @@ After completing the initial configuration, MY KALI snapshot was taken
 | 🧰 Verify Nmap                | `nmap --version`                | Nmap version displayed          |
 | 🔄 Verify snapshot            | Restore snapshot and run `ip a` | Baseline configuration restored |
 
-### Example Results
+### Results
 
-```text
+
 IP Address:
 10.0.0.2/24
 
@@ -248,6 +258,16 @@ The issue was resolved by:
 
 After enabling virtualization, the VM started successfully.
 
+## Problem 3. Android VM setup
+
+The VM failed to install beacause of hardware virtualization and little base memory and limited cores.
+
+The issue was resolved by:
+
+1. Restarting the computer.
+2. Maximizing the base memory to atleast 8060mb.
+3. Increasing the processor cores to 6cores.
+
 
 ---
 
@@ -285,10 +305,6 @@ I learned that documenting commands, configuration, screenshots, problems, and s
 
 ---
 
-# 🔐 Security & Ethical Use
-
-This laboratory is intended strictly for education purposes only.
-
 ---
 
 # 🔗 Tools & Resources
@@ -301,13 +317,13 @@ This laboratory is intended strictly for education purposes only.
 
 # 👤 Author
 
-**Waqas Karim**\
-Cybersecurity Professional B082
+**ABBEY JUUKO**\
+Cybersecurity Specialist B084D
 
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
+LinkedIn: [www.linkedin.com/in/juuko-abbey-serwanga-4a72b6315)
 
 ---
 
-## 📌 Project Information
+## Project Information
 
 **Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
