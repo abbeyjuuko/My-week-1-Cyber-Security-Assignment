@@ -112,7 +112,7 @@ Additional target machines can be added to the same virtual network in future pr
 VirtualBox was installed as the hypervisor.
 ---
 ## SCREENSHOT
-![](my-oracle-virtual-box.png)
+![](my%20oracle%20virtual%20box.png)
 
 ---
 
@@ -145,15 +145,15 @@ The VM network adapter was configured as follows:
 Adapter 1
 Attached to: NAT Network
 Network:     NatNetwork
-Adapter Type: Intel PRO/1000 MT Desktop
+Adapter Type: Intel PRO/1000 MT Desktop (82540 EM)
 ```
 
 The VM was allocated:
 
 ```text
-RAM: 2048 MB
+RAM: 6050 MB
 ```
-![](3-screenshot-kali-linux.png)
+![]()
 A shared folder was also configured for transferring required files between the host operating system and the Kali VM.
 
 
