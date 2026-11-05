@@ -195,6 +195,15 @@ After completing the initial configuration, MY KALI snapshot was taken
 
 I downloaded my win 11 and configured it into the virtual box.
 
+## Screenshot of win 11
+
+![](my%20win%2011.png)
+
+## Step 8. Win 11 Netwok setup in winthin the virtual box
+
+## Screenhot of network setup of win 11
+
+
 
 
 ---
