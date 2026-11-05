@@ -110,6 +110,8 @@ Additional target machines can be added to the same virtual network in future pr
 ## Step 2. Install VirtualBox
 
 VirtualBox was installed as the hypervisor.
+#SCREENSHOT
+![](my oracle virtual box.png)
 
 ---
 
