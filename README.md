@@ -179,19 +179,10 @@ A consistent IP address makes it easier to document the lab and reference the Ka
 
 ---
 
-## Step 6. Create a Clean VM Snapshot
+## Step 6. Clean VM Snapshot
 
-After completing the initial configuration, a VirtualBox snapshot was created.
+After completing the initial configuration, MY KALI snapshot was taken
 
-Example snapshot name:
-
-```text
-Clean Kali - Network Setup
-```
-
-The snapshot represents the clean baseline of the laboratory.
-
-If a future exercise changes or damages the VM configuration, the machine can be restored to this baseline.
 
 
 ---
