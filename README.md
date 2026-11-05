@@ -209,7 +209,7 @@ I downloaded my win 11 and configured it into the virtual box.
 ## Step 9.Setting up my Configured Android VM in virtual Box
 
 
- ## Screenshot
+ ## Screenshot of my Android VM.
 
 
 ![](setting%20up%20android%20vm.png)
@@ -217,6 +217,9 @@ I downloaded my win 11 and configured it into the virtual box.
 ## Step10. Setting up Network of the Android VM in the Virtual Box
 
 ## Screenshot of setting up th Network.
+
+![](setting%20up%20android.png)
+
 
  
 
@@ -340,6 +343,8 @@ I learned that documenting commands, configuration, screenshots, problems, and s
 - **7-Zip:** [https://7-zip.org/download.html](https://7-zip.org/download.html)
 - **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
 - **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
+- **Win 11:** [https://www.microsoft.com/en-us/software-download/windows11]
+- **Android X64:** [https://www.android-x86.org/download.html]
 
 ---
 
