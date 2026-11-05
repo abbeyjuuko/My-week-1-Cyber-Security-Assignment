@@ -211,6 +211,13 @@ I downloaded my win 11 and configured it into the virtual box.
 
  ## Screenshot
 
+
+![](setting%20up%20android%20vm.png)
+
+## Step10. Setting up Network of the Android VM in the Virtual Box
+
+## Screenshot of setting up th Network.
+
  
 
 
