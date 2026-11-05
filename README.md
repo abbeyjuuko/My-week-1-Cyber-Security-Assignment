@@ -203,6 +203,16 @@ I downloaded my win 11 and configured it into the virtual box.
 
 ## Screenhot of network setup of win 11
 
+![](my%20win%2011%20network%20seup.png)
+
+
+## Step 9.Setting up my Configured Android VM in virtual Box
+
+
+ ## Screenshot
+
+ 
+
 
 
 
